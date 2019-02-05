@@ -45,15 +45,15 @@ Segue abaixo as tarefas agendadas para o mês de janeiro. :coffee:
  
  ### 23/01
 - Em detalhes de palpite, centralizar verticalmente todas as colunas
-- Em escolha de garantia, colocar arquivo pdf de informações sobre compra de matriz
+- Em escolha de garantia, colocar arquivo pdf de informações sobre compra de matriz - :white_check_mark:
 - Em escolha de matriz, quando a quantidade de jogos escolhidos for diferente de 6 limpar os preços e remover mensagem caso exista - :white_check_mark:
 - Em escolha de matriz, mudar texto de compra inativa para: "Prazo para compra já encerrado!" - :white_check_mark:
 - Em minhas matrizes, retirar botão de download e cria tela de detalhes - :white_check_mark:
 - Em matrizes no sistema, criar opção para sinalizar o envia de email contendo o arquivo pdf da matriz adquirida. Após a sinalização
-  de envio encaminhar mensagem para o cliente no aplicativo quando ele abrir o aplicativo com o seguinte texto:
-  "AVISO: "
-  "Matriz enviado para seu e-mail. Veja a caixa de entrada."
-- No aviso para aplicativo colocar link com texto "Fechar" para sinalizar que a mensagem já foi visualizada
+  de envio encaminhar mensagem para o cliente no aplicativo quando ele abrir o aplicativo com o seguinte texto: - :white_check_mark:
+  >**AVISO:**   
+  > Matriz enviado para seu e-mail. Veja a caixa de entrada.
+- No aviso para aplicativo colocar link com texto "Fechar" para sinalizar que a mensagem já foi visualizada - :white_check_mark:
 - Em pagamentos, ao confirmar o pagamento da compra de matriz, mudar a situação da mesma para aprovado - :white_check_mark:
 - Verificar porque pagamento de pagseguro com cartão não deu certo - :white_check_mark:
 - Colocar campo de nome e cpf para pagamento de boleto e cartão de crédito - :white_check_mark:
@@ -64,17 +64,17 @@ Segue abaixo as tarefas agendadas para o mês de janeiro. :coffee:
 ### 24/01
 - Em pagamento, limitar quantidade de caracteres nos campos de cartão de crédito - :white_check_mark:
 - Em pagameno, colocar a máscara do cpf tanto para cartão de crédito como para boleto - :white_check_mark:
-- Criar modulo de avisos
-- Em escolha de garantia colocar o link para o pdf de regras, com a seguinte mensagem:
-  >"Regras e termos de compra" 
-- Na compra de matriz, colocar checkbox para confirmar acordo com os regras de compra de matriz, com o seguinte texto:
-  >"Eu li e concordo com as regras e termos de compra"
+- Criar modulo de avisos - :white_check_mark:
+- Em escolha de garantia colocar o link para o pdf de regras, com a seguinte mensagem: - :white_check_mark:
+  > Regras e termos de compra
+- Na compra de matriz, colocar checkbox para confirmar acordo com os regras de compra de matriz, com o seguinte texto: - :white_check_mark:
+  > Eu li e concordo com as regras e termos de compra
 - Em pagamento, se a opção de pagamento for boleto, enviar email com o link do boleto para o e-mail do cliente e colocar informativo na opção - :white_check_mark:
 - Em pagamento, substituir link em boleto por botão com o texto: "Gerar boleto" - :white_check_mark:
 - Em pagamento, se for boleto, após clicar em "CONCLUIR PAGAMENTO" retirar mensagem "O botão para a geração do boleto será exibido após clicar no botão 'CONCLUIR PAGAMENTO'." e
   colocar a mensagem: :white_check_mark:
-  >"OBSERVAÇÃO"
-  >"Efetue o pagamento do boleto até {encerramento enquete} e envie o comprovante para WhatsApp (86)9 9987-8423 ou para o e-mail atendimento@palpiteinteligente.com.br"
+  >**OBSERVAÇÃO**  
+  > Efetue o pagamento do boleto até {encerramento enquete} e envie o comprovante para WhatsApp (86)9 9987-8423 ou para o e-mail atendimento@palpiteinteligente.com.br
 - Verificar erros de boleto
 - Em detalhes de enquetes anteriores, criar coluna de resultado e adicionar botão "Palpites participantes" com a listagem de participantes - :white_check_mark:
 - Criar listagem de participantes de enquete com as seguintes colunas: Código, Cotas, Prêmio, Ações
@@ -88,12 +88,13 @@ Segue abaixo as tarefas agendadas para o mês de janeiro. :coffee:
 
 
 ### 31/01
- - Customizar alerta de avisos com a seguinte cor de fundo #0b48aa e com letra branca
- - Pesquisar a possibilidade de rolagem de tela ao exibir alerta de escolha superior a 6 jogos em compra de matriz
- - Criar opção de cadastro em massa para todos os clientes no modulo de Avisos
- - Em pagamentos, o alerta da opção boleto ao concluir pagamento na compra de crédito deve conter o texto:
+ - Customizar alerta de avisos com a seguinte cor de fundo #0b48aa e com letra branca - :white_check_mark:
+ - Pesquisar a possibilidade de rolagem de tela ao exibir alerta de escolha superior a 6 jogos em compra de matriz - :white_check_mark:
+ - Criar opção de cadastro em massa para todos os clientes no modulo de Avisos - :white_check_mark:
+ - Em pagamentos, o alerta da opção boleto ao concluir pagamento na compra de crédito deve conter o texto: - :white_check_mark:
+ > **OBSERVAÇÃO**  
  > Para  a liberação de seu crédito antes da compensação do boleto, envie o comprovante de pagamento para WhatsApp (86)9 9987-8423 ou para o e-mail atendimento@palpiteinteligente.com.br  
- - Na tela de garantia, colocar a opção de download junto com o título em destaque num balão com o botão abaixo do título
+ - Na tela de garantia, colocar a opção de download junto com o título em destaque num balão com o botão abaixo do título - :white_check_mark:
  - Melhorar tempo de inicialização do aplicativo
  - Customizar menu e outros elementos em tons de verde para criar mais contraste
  
